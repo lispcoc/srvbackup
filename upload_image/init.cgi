@@ -30,12 +30,12 @@ $cf{ok_png}   = 1;  # PNG
 $cf{ok_excel} = 1;  # EXCEL
 $cf{ok_word}  = 1;  # WORD
 $cf{ok_ppt}   = 0;  # POWER POINT
-$cf{ok_zip}   = 1;  # ZIP
+$cf{ok_zip}   = 0;  # ZIP
 $cf{ok_pdf}   = 1;  # PDF
 
 # １回当りの最大投稿サイズ (Bytes)
 # [参考] 5242880 = 5MB
-$cf{maxdata} = 52428800;
+$cf{maxdata} = 5242880;
 
 # 本体プログラムURL【URLパス】
 $cf{upload_cgi} = './upload.cgi';
