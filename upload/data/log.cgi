@@ -1,5 +1,5 @@
-00780<>2023/03/30-02:32<>text/html<>html<>nNLvXMkNU3A0IajwDIg2<>CoC「VOID」（メインログ）<>6H6SjcJyE.nyw<><>2120KB<>zaq3d73abad.rev.zaq.ne.jp<>void<>
-00779<>2023/03/30-02:32<>text/html<>html<>PfofZOAFBmy_BpLYQILh<>CoC「VOID」（雑談ログ）<>t/RvAo5Q0m2jA<><>2067KB<>zaq3d73abad.rev.zaq.ne.jp<>void_chat<>
+00780<>2023/04/01-02:19<>text/html<>html<>pm083o5JuB4TvtjtlvNU<>CoC「VOID」（メインログ）<>qfISpXdYWVUoI<><>2174KB<>zaq3d73abad.rev.zaq.ne.jp<>void<>
+00779<>2023/04/01-02:19<>text/html<>html<>Zt_e81gYTxiZ1cPjIOjw<>CoC「VOID」（雑談ログ）<>HyQhGrz6xFc22<><>2111KB<>zaq3d73abad.rev.zaq.ne.jp<>void_chat<>
 00778<>2022/12/03-03:22<>text/html<>html<>Rbxs8NJAXCJoJe2Hwa7s<>DX3rd「マトリョーシカ」（全ログ）<>3B8y3Md4Y6q7c<><>2125KB<>zaq3d73abad.rev.zaq.ne.jp<>matryoshka_all<>
 00777<>2022/12/03-02:58<>text/html<>html<>FDZJXAqnfrqIF9oidq7J<>DX3rd「マトリョーシカ」（メインログ）<>H3/peIeMFr8CE<><>913KB<>zaq3d73abad.rev.zaq.ne.jp<>matryoshka<>
 00776<>2022/12/03-02:33<>text/html<>html<>3pBvFN9DVJ9HBM6nsenu<>DX3rd「マトリョーシカ」（雑談ログ）<>C7k1y1Tsun0wM<><>765KB<>zaq3d73abad.rev.zaq.ne.jp<>matryoshka_chat<>
