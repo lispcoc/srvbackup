@@ -1,3 +1,5 @@
+dl<>00577<>2023/09/11-14:35<>msnbot-52-167-144-183.search.msn.com<>
+dl<>00601<>2023/09/11-13:21<>petalbot-114-119-140-166.petalsearch.com<>
 dl<>00294<>2023/09/10-09:20<>msnbot-40-77-167-97.search.msn.com<>
 dl<>00526<>2023/09/10-08:16<>msnbot-52-167-144-136.search.msn.com<>
 dl<>00468<>2023/09/10-01:24<>17.bl.bot.semrush.com<>
@@ -9996,5 +9998,3 @@ dl<>00757<>2022/05/10-22:35<>zaq3d73abad.rev.zaq.ne.jp<>
 dl<>00757<>2022/05/10-22:35<>zaq3d73abad.rev.zaq.ne.jp<>
 dl<>00756<>2022/05/10-22:35<>zaq3d73abad.rev.zaq.ne.jp<>
 dl<>00757<>2022/05/10-22:35<>zaq3d73abad.rev.zaq.ne.jp<>
-dl<>00756<>2022/05/10-22:33<>zaq3d73abad.rev.zaq.ne.jp<>
-dl<>00757<>2022/05/10-22:32<>zaq3d73abad.rev.zaq.ne.jp<>
