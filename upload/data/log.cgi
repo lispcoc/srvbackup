@@ -1,3 +1,5 @@
+00808<>2024/01/27-00:09<>text/html<>html<>OZDmvZwMsyBQRbFgepns<>DX3rd「明星のレゾナンス（2回目）」（メインログ）<>O2No0HUJ4KJZ6<><>2081KB<>softbank126023132109.bbtec.net<>resonance_2<>
+00807<>2024/01/27-00:09<>text/html<>html<>RZQvDJ4t9xwMcpJwmxyE<>DX3rd「明星のレゾナンス（2回目）」（雑談ログ）<>yIOUJYkwf836k<><>391KB<>softbank126023132109.bbtec.net<>resonance_2_chat<>
 00806<>2024/01/26-00:24<>text/html<>html<>Vaipp3OzEnvu33i7bHWq<>DX3rd「明星のレゾナンス（2回目）」（メインログ）<>j7GiLL.3KVpmU<><>2060KB<>softbank126023132109.bbtec.net<>resonance_2<>
 00805<>2024/01/26-00:24<>text/html<>html<>l53YnryS1SexsJXXcxZQ<>DX3rd「明星のレゾナンス（2回目）」（雑談ログ）<>gUIok2jDgCXfc<><>354KB<>softbank126023132109.bbtec.net<>resonance_2_chat<>
 00804<>2024/01/24-23:57<>text/html<>html<>7LpfcnJnTHPUvAir8MvW<>DX3rd「明星のレゾナンス（2回目）」（メインログ）<>SUWI/tJ/j3w3U<><>2026KB<>softbank126023132109.bbtec.net<>resonance_2<>
