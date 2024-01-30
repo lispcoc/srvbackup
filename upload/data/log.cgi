@@ -1,3 +1,5 @@
+00812<>2024/01/30-00:22<>text/html<>html<>69r7SyRSbbjdFLgZ8ZBD<>DX3rd「明星のレゾナンス（2回目）」（メインログ）<><><>2122KB<>softbank126023132109.bbtec.net<>resonance_2<>
+00811<>2024/01/30-00:22<>text/html<>html<>zL0QpP9RC8qRnonhH4Fc<>DX3rd「明星のレゾナンス（2回目）」（雑談ログ）<><><>454KB<>softbank126023132109.bbtec.net<>resonance_2_chat<>
 00810<>2024/01/29-00:04<>text/html<>html<>6G13NYGTqvX03yNEhOp4<>DX3rd「明星のレゾナンス（2回目）」（メインログ）<>AjlQC4BAERen.<><>2103KB<>softbank126023132109.bbtec.net<>resonance_2<>
 00809<>2024/01/29-00:04<>text/html<>html<>9aqNZGVbXSeLQ0jlAhD7<>DX3rd「明星のレゾナンス（2回目）」（雑談ログ）<>Gw/LRWIOYIZa.<><>429KB<>softbank126023132109.bbtec.net<>resonance_2_chat<>
 00789<>2023/11/19-02:11<>text/html<>html<>49b_uIZtKNV6iIVEI3Fb<>DX3rd「Phantom Beast」（メインログ）<>bb.q/o7J3M.H6<><>591KB<>zaqb4ddb42b.rev.zaq.ne.jp<>Phantom_Beast<>
