@@ -1,3 +1,10 @@
+dl<>00003<>2024/03/14-14:17<>msnbot-157-55-39-204.search.msn.com<>
+dl<>00022<>2024/03/14-12:59<>msnbot-207-46-13-54.search.msn.com<>
+dl<>00441<>2024/03/14-05:36<>crawl-66-249-68-70.googlebot.com<>
+dl<>00836<>2024/03/13-22:00<>softbank126023132109.bbtec.net<>
+dl<>00003<>2024/03/13-20:47<>msnbot-52-167-144-145.search.msn.com<>
+dl<>00527<>2024/03/13-15:34<>static.165.101.161.5.clients.your-server.de<>
+dl<>00441<>2024/03/13-15:18<>crawl-66-249-68-70.googlebot.com<>
 dl<>00003<>2024/03/13-13:51<>msnbot-52-167-144-180.search.msn.com<>
 dl<>00505<>2024/03/13-13:08<>crawl-66-249-68-70.googlebot.com<>
 dl<>00586<>2024/03/13-05:46<>msnbot-207-46-13-102.search.msn.com<>
@@ -9991,10 +9998,3 @@ dl<>00422<>2022/11/29-15:25<>msnbot-157-55-39-41.search.msn.com<>
 dl<>00312<>2022/11/29-14:15<>17.bl.bot.semrush.com<>
 dl<>00034<>2022/11/29-13:38<>13.bl.bot.semrush.com<>
 dl<>00311<>2022/11/29-13:34<>10.bl.bot.semrush.com<>
-dl<>00037<>2022/11/29-13:23<>6.bl.bot.semrush.com<>
-dl<>00107<>2022/11/29-12:46<>25.bl.bot.semrush.com<>
-dl<>00655<>2022/11/29-12:29<>14.bl.bot.semrush.com<>
-dl<>00444<>2022/11/29-12:23<>8.bl.bot.semrush.com<>
-dl<>00129<>2022/11/29-12:18<>40.bl.bot.semrush.com<>
-dl<>00325<>2022/11/29-11:51<>25.bl.bot.semrush.com<>
-dl<>00104<>2022/11/29-11:36<>36.bl.bot.semrush.com<>
